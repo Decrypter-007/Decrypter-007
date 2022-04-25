@@ -21,8 +21,5 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Decrypter-007&langs_count=8&count_private=true&layout=compact&theme=react&bg_color=0D1117" alt="Decrypter-007" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Decrypter-007&show_icons=true&count_private=true&theme=react&bg_color=0D1117" alt="Decrypter-007" />
-</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Decrypter-007&show_icons=true&count_private=true&theme=react&background=0D1117" alt="Decrypter-007" />
 </p>
-<p align="left"><a href="https://github.com/Decrypter-007/github-readme-activity-graph"><img alt="Decrypter-007's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Decrypter-007&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&" /></a></p>
